@@ -1,5 +1,5 @@
 # Jenni Szajnzinger - it's pronounced shine-zinger!
-![Picture of Jenni](https://imgur.com/a/0RX6wUn)
+![Picture of Jenni](https://i.imgur.com/nXgfjil.jpg?1)
 
 ## I was born in...
 Victoria
