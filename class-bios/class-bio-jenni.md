@@ -1,4 +1,4 @@
-# Jen Reiher
+# Jenni Szajnzinger - it's pronounced shine-zinger!
 ![Picture of Jenni](https://imgur.com/a/0RX6wUn)
 
 ## I was born in...
