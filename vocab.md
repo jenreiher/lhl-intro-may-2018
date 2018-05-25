@@ -15,3 +15,10 @@
 * __Cloud9__: our cloud-based IDE of choice for this course. 
 * __Boilerplate__: a basic set up to work with for any particular web app framework (e.g. Sinatra). 
 * __Stack__: the different technologies and languages to a working web application. Different companies have different "stacks".
+
+## W1D2
+* __Semantic__: Semantic means *meaning*... to eleborate, it provides 'context' behind the text and content that you decide to stuff into an html page. In order for a browser to 'see' a page like we do, they require the meaning behind the content so that they some particular text is a header for example. 
+* __Element__: An element is a complete HTML tag. This could be something like `<p>I'm a paragraph</p>` or a self-closing tag such as `<img src="..." >`
+* __Nesting__: When you stuff HTML elements inside of other elements, that's called nesting. This is a common practice and in some occasions it's required such as in `<ul>` tags and `<form>` tags. Make sure to indent your code as you nest to make debugging.
+* __Cloud 9__: Cloud 9 is your IDE (integrated developer environment). It's an online service that you will develop your finstagram apps on. 
+* __IDE__: an ide is your one stop shop for developing. it is generally an application that has everything you need from writing.
