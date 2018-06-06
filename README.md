@@ -11,3 +11,5 @@ To view the lecture notes and videos from past lectures, click [here](https://gi
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * [How to survive your coding journey](http://robertorocha.info/how-to-survive-the-desert-of-despair-in-your-code-learning-journey/)
+
+* [Basic Ruby concepts](https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-cheat-sheet)
