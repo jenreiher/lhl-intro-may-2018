@@ -85,3 +85,19 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __View__: The shorthand term for our ERB file. It means "the thing the user _views_".
 * __Actions__: Our list of things to "do" when a certain view is accessed, located in our actions.rb file and broken up into different `get '/something' do ... some code ... end` blocks
 * __Iterators__: What we call a method that loops over a set of data in some way so we can DO something with it in our 'do block'
+
+## W3D2
+* __Database__: In a nutshell is a place where data can be stored **persistently**
+* __Persistance__: In the database realm, persistance means data that will not be lost if the computer loses power. Think hard drive, that's a persistance storage mechanism
+* __Relational Database__: A particular type of database that organizes data like an Excel Sheet:  tables, columns and rows.
+* __Table__: is a container for holding all data that describes a particular thing. In finstagram we have tables for users, posts, comments etc.
+* __Columns/Fields__: All of the seperate properties that belong to a table to describe the things being stored in the table. For example in a users table we may have columns named name, username, email, password etc.
+* __Rows__: each individual record inside a table. They are generally given some type of unique identifier like an auto-incrementing 'id' number
+* __ORM__: a programmatic way of interacting with a database minus all of the SQL. ORM stands for Object Relational Mapper. It 'Models' a representation of a table in the database and provides a generally easy programming interface (with methods) to interact with to perform CRUD
+* __Active Record__: is the ORM that we are using inside of our applications. It is a ORM built in Ruby which allows us to use Ruby code to interact with a SQL database
+* __Query__: is an interaction with the database. We query the database to insert data, remove data, update data, and retrieve data
+* __Active Record Model__: is functionally a *Ruby Class* that represents or **models** a particular table in the database. It inherits special powers from the ActiveRecord class to provide us with a huge set of methods that allow us to interact with the database.
+* __Class__: This is something that's generally apart of all Object Orientated Languages. A Class is generally a *blueprint* of a 'thing'. It contains methods and properties that describe the thing. We could have a `class House` which may have properties like `number_of_floors` or `square_footage` as well as methods like `def open_door` or `def turn_off_all_lights`
+  
+  
+  
