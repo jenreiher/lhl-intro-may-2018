@@ -99,5 +99,11 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __Active Record Model__: is functionally a *Ruby Class* that represents or **models** a particular table in the database. It inherits special powers from the ActiveRecord class to provide us with a huge set of methods that allow us to interact with the database.
 * __Class__: This is something that's generally apart of all Object Orientated Languages. A Class is generally a *blueprint* of a 'thing'. It contains methods and properties that describe the thing. We could have a `class House` which may have properties like `number_of_floors` or `square_footage` as well as methods like `def open_door` or `def turn_off_all_lights`
   
-  
-  
+## W4D1
+* __Query__: The word to describe how to retrieve specific data from a database.
+* __Associations__: How we describe relationships between types of data in our database.
+* __Class__: The object-oriented way to create objects that has access to methods and contain data.
+* __Inheritance__: The way we allow our classes to have access to the methods of other Classes... without having to retype it all.
+* __Instance method__: A method that lives within a class. Each "instance" of that class (aka an object) can "call" (use) that method without impacting the way other objects behave.
+* __Validations__: How we check that the data being entered into the database for each class meets specific criteria, so that it's nice and clean and tidy in our database.
+
