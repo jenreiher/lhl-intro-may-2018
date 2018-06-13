@@ -13,3 +13,5 @@ To view the lecture notes and videos from past lectures, click [here](https://gi
 * [How to survive your coding journey](http://robertorocha.info/how-to-survive-the-desert-of-despair-in-your-code-learning-journey/)
 
 * [Basic Ruby concepts](https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-cheat-sheet)
+
+* [Active Record queries](http://guides.rubyonrails.org/active_record_querying.html)
