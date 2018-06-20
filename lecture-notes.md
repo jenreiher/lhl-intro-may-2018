@@ -20,3 +20,8 @@ W3D1
 W4D1
 * [Slides](https://docs.google.com/presentation/d/1ZXuQF_AQ0TnDfXHBRbknZ4k3vHzyJrB0d4zwV09kwGs/edit#slide=id.g34ee678d5f_0_23)
 * [Lecture](https://www.youtube.com/watch?v=OX_J8YE7aAI)
+
+--- 
+W5D1
+* [Slides](https://docs.google.com/presentation/d/1aIxpsQeC0utLK_ZKUos1FgLLGz8RHTQmT0Eq0UrRt8I/edit#slide=id.g1868f3f7bf_0_0)
+* [Lecture](https://www.youtube.com/watch?v=JHweQC2WSU4)
