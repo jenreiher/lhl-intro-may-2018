@@ -107,7 +107,12 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __Instance method__: A method that lives within a class. Each "instance" of that class (aka an object) can "call" (use) that method without impacting the way other objects behave.
 * __Validations__: How we check that the data being entered into the database for each class meets specific criteria, so that it's nice and clean and tidy in our database.
 
-## W5D1
+## W5D2
 * __Session__: A unique, secret identifier that allows the browser to know about a user in between pages as long as that user is logged in.
 * __Cookie__: The browser's data that it stores about the user.
 * __Helpers__: Sinatra's word for Ruby methods that any view can access (for security and confusion reasons we don't usually do that!) 
+
+## W6D1
+* __Media Query__: A way to target specific styling at different browser sizes
+* __Permissions__: How we control which users are allowed to see which pages
+* __HTTP Codes__: Numbers that correspond to different responses from the server
